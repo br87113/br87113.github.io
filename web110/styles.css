@@ -4,6 +4,8 @@ body {
 
 h1 {
     color: #ff8f7e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 h2 {
@@ -12,4 +14,5 @@ h2 {
 
 p {
     color: #fdaa9d;
+    font-size: 20px;
 }
