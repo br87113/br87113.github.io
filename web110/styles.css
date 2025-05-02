@@ -3,9 +3,13 @@ body {
 }
 
 h1 {
-    color: #fdaa9d;
+    color: #ffa395;
+}
+
+h2 {
+    color: #ffa395;
 }
 
 p {
-    color: #ffd4c2;
+    color: #fdaa9d;
 }
